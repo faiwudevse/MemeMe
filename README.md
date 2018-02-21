@@ -6,9 +6,8 @@ Download the project and run it from Xcode
 
 ## Screenshots
 
- ![alt text](https://github.com/faiwudevse/Udacity_IOS_ND_P2/blob/master/screen1.png)
+ ![alt text](https://github.com/faiwudevse/MemeMe/blob/master/MemeMeScreenShot2.png)
+  
+ ![alt text](https://github.com/faiwudevse/MemeMe/blob/master/MemeMeScreenShot.png)
  
- 
- ![alt text](https://github.com/faiwudevse/Udacity_IOS_ND_P2/blob/master/screen2.png)
- 
-  ![alt text](https://github.com/faiwudevse/Udacity_IOS_ND_P2/blob/master/screen3.png)
+
